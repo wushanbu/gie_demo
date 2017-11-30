@@ -6,4 +6,7 @@ package cn.ws.controller;
  * @desc 这是一个类
  **/
 public class INdexController {
+    public static void main(String[] args) {
+
+    }
 }
